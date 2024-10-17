@@ -20,7 +20,8 @@ Actualmente estoy Matriculado en el Primer Curso y las asignaturas que estoy cur
 En el Centro Integral de Formación Profesional a Distancia "La Conservera"- Región de Murcia.
 
 [PagWEB CENTRO Educativo](https://ieslosalbares.es)
+
  
 ____
 
-#### Me puedo describir como una persona responsable, puntual, discreto, con capacidad de trabajar en equipo y en constante aprendizaje
+#### STACK TECNOLOGICO CONOCIDO:
