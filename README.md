@@ -15,6 +15,8 @@ Actualmente estoy Matriculado en el Primer Curso y las asignaturas que estoy cur
 6. ITINERARIO PERSONAL PARA LA EMPLEABILIDAD PRL
 7. INGLES PROFESIONAL GS
 8. DIGITALIZACION APLICADA A LOS SECTORES PRODUCTIVOS GS
+   
+   
 En el Centro Integral de Formación Profesional a Distancia "La Conservera"- Región de Murcia.
 
 [PagWEB CENTRO Educativo](https://ieslosalbares.es)
