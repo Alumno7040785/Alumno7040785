@@ -23,20 +23,21 @@ En el Centro Integral de Formación Profesional a Distancia "La Conservera"- Reg
 
  
 ____
-| STACK TECNOLOGICO CONOCIDO:| STACK TECNOLOGICO del CURSO: |
-| ---------- | ---------- |
+| STACK TECNOLOGICO CONOCIDO :| STACK TECNOLOGICO del CURSO : |
+| :----------: | :----------: |
 | HTML  | FRAMEWORKS: |
-| CSS  |                * REACT  |
+| CSS  |                *REACT  |
 | JAVA SCRIPT  |       * Node.js |
 | GIT  |               * Express  |
-| VSCode  |BASE DE DATOS: |
+| VSCode  |BASE DE DATOS : |
 |   |       * MongoDB |
 |   |       * Docker |
 
 ____
 
 ###
- PREFERENCIAS TECNOLOGICAS :
+ 
+ ## [PREFERENCIAS TECNOLOGICAS : ](#identificador)
  
 * DISEÑO WEB
 * FRONT- END
