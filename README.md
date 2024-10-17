@@ -21,5 +21,5 @@ En el Centro Integral de Formación Profesional a Distancia "La Conservera"- Reg
 
 [PagWEB CENTRO Educativo](https://ieslosalbares.es)
  
-
-
+____
+#### Me puedo describir como una persona responsable, puntual, discreto, con capacidad de trabajar en equipo y en constante aprendizaje
