@@ -17,8 +17,7 @@ Actualmente estoy Matriculado en el Primer Curso y las asignaturas que estoy cur
 8. DIGITALIZACION APLICADA A LOS SECTORES PRODUCTIVOS GS
 En el Centro Integral de Formación Profesional a Distancia "La Conservera"- Región de Murcia.
 
-[PagWEB CENTRO Educativo](www.ieslosalbares.es )
+[PagWEB CENTRO Educativo](https://ieslosalbares.es)
  
-
 
 
